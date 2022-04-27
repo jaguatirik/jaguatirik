@@ -1,5 +1,5 @@
 # sobre mim
-- 👋 Hi, I’m @jaguatirik
+- 👋 eu sou o @jaguatirik
 - :+1: meu email contato é [email](albert.costa@escola.pr.gov.br)
 - 😏 estou enteressado em programar
 - 🌱 eu estou aprendendo a programar
